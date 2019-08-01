@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1564689000 source:c:\users\luis ml castro\pycharmprojects\proyecto_final\proyecto_f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
